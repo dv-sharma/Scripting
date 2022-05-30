@@ -12,7 +12,7 @@ case $COUNTRYNAME in
     ;;
 
   India)
-    echo  -e "Hindi\n"
+    echo -e "Hindi\n"
     ;;
 
   Romania | Moldova)
