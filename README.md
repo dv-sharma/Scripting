@@ -174,12 +174,9 @@ echo "$?"
 - scope of global variable is outside the brackets.
 
 
+![image](https://user-images.githubusercontent.com/65087388/170961053-8dea1be8-f5b4-4dcb-8d18-d25ef89d5167.png)
 
+![image](https://user-images.githubusercontent.com/65087388/170962646-4d6be3e7-91cd-4ec7-be26-7ad78e4cc717.png)
 
+    
 
-
-
-
-
-
->>>>>>> fb11c544a78c8ff508f98a7430e0b78761e86a20
