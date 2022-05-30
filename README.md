@@ -178,5 +178,10 @@ echo "$?"
 
 ![image](https://user-images.githubusercontent.com/65087388/170962646-4d6be3e7-91cd-4ec7-be26-7ad78e4cc717.png)
 
+## LOGGING
+
+![image](https://user-images.githubusercontent.com/65087388/170969211-64853c5b-b1f2-46cf-9fb1-aa8ced87ab94.png)
+
+
     
 
