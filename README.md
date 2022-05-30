@@ -69,12 +69,22 @@ UNDERSTANDING nested If
 
 ## DAY 2 EXIT CODES
 
--0 means successfull, other number means error
+- 0 means successfull, other number means error
  
 e.g. ls /no/such/folder
 echo "$?"
 
--here there is no such folder present so exit code will be non zero number.
+- here there is no such folder present so exit code will be non zero number.
+
+
+### FUNCTIONS
+
+**SYNTAX**
+![image](https://user-images.githubusercontent.com/65087388/170939978-1f5cceb3-c7c0-4d00-9aeb-cb5c5502786d.png)
+
+- **Good practise to call functions at top**
+- Can't operate on exit status code
+- scope of global variable is outside the brackets.
 
 
 
