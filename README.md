@@ -67,14 +67,16 @@ UNDERSTANDING nested If
 
 
 
-## EXIT CODES
+## DAY 2 EXIT CODES
 
- 0 means successfull, other number means error
+-0 means successfull, other number means error
  
 e.g. ls /no/such/folder
 echo "$?"
 
-here there is no such folder present so exit code will be non zero number
+-here there is no such folder present so exit code will be non zero number.
+
+
 
 
 
