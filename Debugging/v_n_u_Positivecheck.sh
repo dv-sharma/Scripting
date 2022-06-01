@@ -11,6 +11,8 @@ clear
 
  ##Or, you can execute sh -n filename.sh
 
+ # sh -u 06.u-Unset.sh
+
 read -p "Enter the number : " val
 BASE=0
 if [ "$val" -gt "$BASE" ]
