@@ -182,6 +182,14 @@ echo "$?"
 
 ![image](https://user-images.githubusercontent.com/65087388/170969211-64853c5b-b1f2-46cf-9fb1-aa8ced87ab94.png)
 
+## DEBUGGING
+![image](https://user-images.githubusercontent.com/65087388/171042160-622630fc-f50e-406c-801e-3b60ce2ee231.png)
+
+## SED EDITOR
+![image](https://user-images.githubusercontent.com/65087388/171334518-639c6c1b-8964-43c9-86d1-e9e52a86f19f.png)
+
+
+
 
     
 
